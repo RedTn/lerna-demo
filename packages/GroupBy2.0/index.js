@@ -1,4 +1,4 @@
-import makeBetter from "myradaddon";
+const makeBetter =  require("myradaddon");
 
 export default callGroupBy = () => {
     const init = {
