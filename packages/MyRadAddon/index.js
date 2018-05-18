@@ -1,3 +1,3 @@
-export default makeBetter = (input) => {
+module.exports.makeBetter = (input) => {
     return input.addOn = "ADDON";
 };

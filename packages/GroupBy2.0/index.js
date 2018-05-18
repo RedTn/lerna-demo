@@ -1,6 +1,6 @@
-const makeBetter =  require("myradaddon");
+const { makeBetter } =  require("myradaddon");
 
-export default callGroupBy = () => {
+module.exports.callGroupBy = () => {
     const init = {
         "data": "Hello World",
         "version": "1.0"
