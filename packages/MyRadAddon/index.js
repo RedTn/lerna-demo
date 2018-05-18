@@ -1,3 +1,4 @@
 module.exports.makeBetter = (input) => {
-    return input.addOn = "ADDON";
+    input.addOn = "ADDON";
+    return input;
 };
