@@ -1,4 +1,4 @@
 module.exports.addObjectProperty = (input) => {
-    input.addOn = "ADDON";
+    input.addOn = "MAKE AMERICA GREAT";
     return input;
 };
