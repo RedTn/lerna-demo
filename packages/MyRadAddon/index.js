@@ -1,4 +1,4 @@
-module.exports.makeBetter = (input) => {
+module.exports.addObjectProperty = (input) => {
     input.addOn = "ADDON";
     return input;
 };
